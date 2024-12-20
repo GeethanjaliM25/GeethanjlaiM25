@@ -1,7 +1,18 @@
+[![MasterHead](https://cdn.hashnode.com/res/hashnode/image/upload/v1651780522995/zZbL8WM2v.gif?w=1600&h=840&fit=crop&crop=entropy&auto=format,compress&gif-q=60&format=webm.gif)]
+<h1 align="center">Hi 👋, I'm Geethanjali M</h1>
+<h3 align="center">"Showcasing Innovation and Code in Action"</h3>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=geethanjalim25&label=Profile%20views&color=0e75b6&style=flat" alt="geethanjalim25" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=geethanjalim25" alt="geethanjalim25" /></a> </p>
+
+- 🌱 I’m currently learning **Programming language Python**
+
 - ⚡ Fun fact **I am good girl**
-https://cdn.hashnode.com/res/hashnode/image/upload/v1651780522995/zZbL8WM2v.gif?w=1600&h=840&fit=crop&crop=entropy&auto=format,compress&gif-q=60&format=webm
+
 <h3 align="left">Connect with me:</h3>
 <img align="right" alt="coding" width="400"src="https://i.pinimg.com/originals/7e/b2/49/7eb249f2fd2e58e9ad6dd60ef892971b.gif">
+
 <p align="left">
 <a href="https://instagram.com/anjali__shetty__025" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="anjali__shetty__025" height="30" width="40" /></a>
 </p>
@@ -12,4 +23,3 @@ https://cdn.hashnode.com/res/hashnode/image/upload/v1651780522995/zZbL8WM2v.gif?
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=geethanjalim25&show_icons=true&locale=en" alt="geethanjalim25" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=geethanjalim25&" alt="geethanjalim25" /></p>
-# GeethanjlaiM25
